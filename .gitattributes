@@ -1,0 +1,27 @@
+# --- لغات البيانات والإعدادات (Data & Config) ---
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+*.json linguist-detectable=true
+*.xml linguist-detectable=true
+*.toml linguist-detectable=true
+*.ini linguist-detectable=true
+*.env linguist-detectable=true
+*.properties linguist-detectable=true
+
+# --- ملفات التوثيق والنصوص (Documentation & Markup) ---
+*.md linguist-detectable=true
+*.txt linguist-detectable=true
+*.rst linguist-detectable=true
+
+# --- ملفات التصميم والويب الفرعية (Markup & Styles) ---
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.svg linguist-detectable=true
+
+# --- ملفات الشل والسكربتات الإدارية (Shell & Automation) ---
+*.sh linguist-detectable=true
+*.bash linguist-detectable=true
+*.bat linguist-detectable=true
+*.ps1 linguist-detectable=true
+Dockerfile linguist-detectable=true
+Makefile linguist-detectable=true
